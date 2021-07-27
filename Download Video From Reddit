@@ -1,0 +1,1 @@
+javascript: if (window.location.href.indexOf('reddit.com') > -1) {(function() {let open = window.open; open.opener = null; open('https://redditsave.com/info?url='  + window.location.pathname.slice(0))})()}
