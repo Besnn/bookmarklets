@@ -1,1 +1,0 @@
-javascript: document.location = document.URL.replace('reddit.com','removeddit.com');
